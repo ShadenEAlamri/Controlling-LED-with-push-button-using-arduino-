@@ -1,5 +1,5 @@
 # Controlling-LED-with-push-button-using-arduino
-# Controlling an LED with a Push Button Using Arduino
+
 
 ## Introduction
 This project illustrates how to control an LED with a push button connected to an Arduino board. Pressing the button will toggle the LED on and off, making it an excellent introductory project for understanding digital input and output.
